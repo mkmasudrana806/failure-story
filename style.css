@@ -1,0 +1,67 @@
+/* header section  */
+.header-section{
+    background-image: url(images/banner3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+.header-container{
+    width: 400px;
+    text-align: right;
+    height: max-content;
+    margin-right: 200px;
+}
+.header-name{
+    font-weight: 800;
+    color: white;
+font-size: 60px;
+margin-bottom: 24px;
+}
+.header-description{
+    color: white;
+}
+.contact-us-btn{
+color: #005FAC;
+font-size: 20px;
+width: 160px;
+height: 60px;
+font-weight: 600;
+border-radius: 8px;
+border: none;
+}
+
+/* failure section  */
+.failure-section{
+    display: flex;
+    margin: auto 0;
+    height: 620px;
+    justify-content: center;
+    gap: 100px;
+    align-items: center;
+    margin-top: 100px;
+}
+.failure-info,.failure-person-img{
+    width: 420px;
+}
+.failure-person-img img{
+    width: 100%;
+    height: 580px;
+}
+.failure-heading{
+    font-size:40px;
+}
+.failure-list{
+    display: flex;
+    align-items: center;
+}
+.check-mark{
+    color: green;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+/* plans section  */
+
