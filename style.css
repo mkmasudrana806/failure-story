@@ -64,4 +64,28 @@ border: none;
 }
 
 /* plans section  */
+.my-plans{
+    font-size: 40px;
+}
+.plans-section{
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+}
+.plans{
+    display: flex;
+    justify-content: space-between;
+}
+.plan{
+    width: 220px;
+    text-align: center;
+}
 
+.plan h1{
+font-size: 30px;
+}
+.plan p{
+    font-size: 22px;
+    color: #3a3939;
+}
