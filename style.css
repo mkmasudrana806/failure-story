@@ -44,7 +44,7 @@ border: none;
     justify-content: center;
     gap: 100px;
     align-items: center;
-    margin-top: 100px;
+    margin-top: 80px;
 }
 .failure-info,.failure-person-img{
     width: 420px;
@@ -73,16 +73,16 @@ border: none;
 .plans-section{
     width: 1000px;
     margin: 0 auto;
-    margin-top: 100px;
+    margin-top: 80px;
     text-align: center;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 }
 .plans{
     display: flex;
     justify-content: space-between;
 }
 .plan{
-    width: 220px;
+    width: 240px;
     text-align: center;
 }
 
@@ -208,7 +208,7 @@ font-size: 30px;
     display: flex;
     align-items: center;
     border-radius: 8px;
-    margin-top: 100px;
+    margin-top: 80px;
 }
 .call-now-info{
     width: 400px;
@@ -224,7 +224,7 @@ font-size: 30px;
 /* footer section  */
 footer{
     background-color:#151414;
-    margin-top:100px;
+    margin-top:80px;
     color: white;
 }
 .footer-section{
